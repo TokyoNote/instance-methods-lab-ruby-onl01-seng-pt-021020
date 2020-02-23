@@ -1,9 +1,7 @@
 class Dog
   
-e
-
 def bark
   puts "Woof"
+  end
 end
-nd
 
